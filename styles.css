@@ -1,0 +1,31 @@
+body{
+  font-family: "verdana", sans-serif;
+  color: white;
+  background-color: black;
+  }
+
+
+h1 {color: Green;}
+h2 {color: White;}
+h3 {color: #0000ff;}
+
+/* <div class="center"> Centered places I have lived for longer than 1 year</div> */
+/* .center-div
+{
+     margin: 0 auto;
+     width: 95vh;
+} */
+
+/* color test
+p1 {color: #ffffff;}
+p2 {color: #f2f2f2;}
+p3 {color: #e6e6e6;}
+*/
+ /* #map{float:center;} */
+
+/* img{
+  width: 75%;
+
+  padding:5px;
+  margin: 10px;
+  } */
